@@ -1,0 +1,23 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvarilla/electronTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvarilla/electronTutorial/issues"
+  },
+  "homepage": "https://github.com/jvarilla/electronTutorial#readme",
+  "devDependencies": {
+    "electron": "^3.0.5"
+  }
+}
